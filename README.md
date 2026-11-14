@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Luciano Torretti — Desarrollo web y de software" />
+  <img src="banner.png" width="100%" alt="Luciano Torretti — Desarrollo web y de software" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucianotorretti/"><img src="https://img.shields.io/badge/LinkedIn-lucianotorretti-0A66C2?style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:lucianotp000@gmail.com"><img src="https://img.shields.io/badge/Email-lucianotp000%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:lucianotp000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22" align="center" alt="Gmail" /> lucianotp000@gmail.com</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucianotorretti/"><img src="https://skillicons.dev/icons?i=linkedin" height="22" align="center" alt="LinkedIn" /> lucianotorretti</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Disponible_para-pr%C3%A1ctica_profesional-2EA043?style=flat-square" alt="Disponible para práctica profesional" />
 </p>
 
