@@ -6,6 +6,9 @@
   <a href="mailto:lucianotp000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22" align="center" alt="Gmail" /> lucianotp000@gmail.com</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucianotorretti/"><img src="https://skillicons.dev/icons?i=linkedin" height="22" align="center" alt="LinkedIn" /> lucianotorretti</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/luciano_tp_?cplk=dGl2ejg2NDlyaWJy"><img src="https://skillicons.dev/icons?i=instagram" height="22" align="center" alt="LinkedIn" /> luciano_tp_</a>
+
 </p>
 
 <p align="center">
@@ -14,12 +17,16 @@
 
 ## Sobre mí
 
-Estudiante de Ingeniería Civil Informática en la Universidad Mayor, orientado al desarrollo de software y aplicaciones web. Me interesa construir soluciones que automaticen procesos y, cuando hace falta, llevarlas al mundo físico con hardware e IoT.
+Estudiante de Ingeniería Civil Informática en la Universidad Mayor, enfocado en el desarrollo de software y aplicaciones web. Lo que me motiva es simple: construir herramientas que le ahorren tiempo a las personas, automatizando tareas repetitivas para que el trabajo rinda más.
 
-Trabajo con una metodología estructurada: defino requerimientos y arquitectura antes de escribir código, considerando seguridad y cumplimiento normativo desde el inicio, y desarrollo de forma iterativa con agentes de IA como Claude Code, validando cada etapa con tests.
+Me gusta llevar una idea completa desde el problema hasta el producto funcionando.
+
+Mi forma de trabajar parte antes del código: levanto requerimientos, defino la arquitectura y considero la seguridad y el cumplimiento normativo desde el primer día. Desarrollo de forma iterativa con agentes de IA como Claude Code, tratándolos como un equipo al que dirijo, y valido cada etapa con tests.
+
+Fuera de la pantalla, diseño tatuajes originales. Es la misma búsqueda que aplico en mis proyectos: crear algo propio en lugar de repetir lo que ya existe.
 
 - **Ahora:** construyendo AforoON, la plataforma de reservas y control de acceso del Hub Providencia.
-- **Aprendiendo:** arquitectura de software, ingeniería de IA y agentes, testing y CI/CD.
+- **Aprendiendo:** ingeniería de IA y agentes, testing y CI/CD.
 - **Buscando:** mi primera práctica profesional en desarrollo de software o web.
 
 ## Tecnologías
@@ -28,7 +35,7 @@ Trabajo con una metodología estructurada: defino requerimientos y arquitectura 
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,nodejs,py,java,postgres,supabase,vercel,git,github,vscode,linux&perline=8" alt="Next.js, React, TypeScript, JavaScript, HTML, CSS, Node.js, Python, Java, PostgreSQL, Supabase, Vercel, Git, GitHub, VS Code, Linux" />
 </p>
 
-También: Playwright · NumPy · OPC UA · ESP32 y NFC · desarrollo asistido por IA con Claude Code
+También: Playwright · NumPy · OPC UA · ESP32 · desarrollo asistido por IA con Claude Code
 
 ## Proyectos destacados
 
